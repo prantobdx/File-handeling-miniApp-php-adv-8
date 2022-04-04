@@ -1,2 +1,2 @@
-# Studwnt information mange and File-handeling project 23
+# Student information mange and File-handeling project 23
 
