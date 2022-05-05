@@ -1,2 +1,2 @@
-# Student information mange and File-handeling project 23
+# student information mange mini-app by (File-handeling and auth setup) project raw code working 23,24,25 together.
 
