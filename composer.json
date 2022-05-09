@@ -1,0 +1,21 @@
+{
+  "name": "php/php",
+  "description": "description",
+  "minimum-stability": "stable",
+  "type": "project",
+  "keywords": [],
+  "license": "",
+  "authors": [
+    {
+      "name": "Php Student info file handeling Project",
+      "email": "email@gmail.com"
+    }
+  ],
+  "require": {},
+  "require-dev": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "app//"
+    }
+  }
+}
